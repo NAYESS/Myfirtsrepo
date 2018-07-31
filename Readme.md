@@ -1,3 +1,3 @@
 # My firts repo in Git
 
-Este repositorio es para aprender a usar Git
+estoy editando desde la herramienta en línea
